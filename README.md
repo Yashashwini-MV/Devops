@@ -1,3 +1,8 @@
+## to create mvn peoject
+#mvn archetype:generate -DgroupId=com.yourcompany.projectname -DartifactId=my-app -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
+
+
+
 # 🚀 Jenkins + Maven + Ansible CI/CD Flow
 
 ## Steps:
